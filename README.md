@@ -15,3 +15,5 @@ Finally, to run: ```$ java feb18/Main```
 ![Alt text](/./gameplay.png "Example of gameplay")
 
 ![Alt text](/./loss.png "Example of loss")
+
+![Alt text](/./win.png "Example of completion")
